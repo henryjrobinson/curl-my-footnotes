@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+footnote-check-*/
+.DS_Store
