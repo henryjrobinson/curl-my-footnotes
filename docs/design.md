@@ -166,7 +166,8 @@ These facts came from running the script against real sites on 2026-09-16. Sever
 4. **Pairing a claim with its footnote.** A marker at the end of a paragraph may cover one sentence or several. One source may be cited in five places for five claims. A wrong pairing causes false alarms no matter how good the model is. Version 1 flags the uncertain cases. The golden set must include them.
 5. **Partial support.** A claim may hold two facts and the page may support one. The verdict scale for this case is not designed.
 6. **A real browser for blocked sites.** This would reduce `could not check` results. It adds weight and run time.
-7. **A license for this repo.**
+
+Closed on 2026-09-17: the owner chose the MIT license for this repo.
 
 ## 10. Options that were rejected
 

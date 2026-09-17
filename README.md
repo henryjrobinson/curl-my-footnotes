@@ -124,4 +124,4 @@ All tests run offline.
 
 ## License
 
-No license is chosen yet.
+MIT. See [LICENSE](LICENSE).
